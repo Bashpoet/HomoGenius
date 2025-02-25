@@ -1,5 +1,5 @@
 # HomoGenius
-This is a well-structured and comprehensive React component for exploring Homogeneous Ordinary Differential Equations (ODEs).
+A well-structured and comprehensive React component for exploring Homogeneous Ordinary Differential Equations (ODEs).
 # HomoGenius: Interactive Homogeneous ODE Explorer
 
 ## 📚 Overview
